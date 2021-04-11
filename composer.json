@@ -7,7 +7,9 @@
             "email": "bastien.bonnamant@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "ehime/hello-world": "^1.0"
+    },
 
     "autoload": {
         "psr-4": {
